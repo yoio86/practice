@@ -1,5 +1,0 @@
-# Visual Studio 缓存
-.vs/
-# 编译输出目录
-bin/
-obj/
